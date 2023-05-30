@@ -1,0 +1,13 @@
+{
+    "31337": {
+        "nft": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        }
+    },
+    "5": {
+        "nft":{
+            "address": "0xFC2Df70Ee35C33e8E2EaE5e503C359DD8998Ca5B"
+        },
+        "explorerURL": "https://goerli.etherscan.io/"
+    }
+}
